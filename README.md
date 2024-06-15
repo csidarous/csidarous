@@ -13,8 +13,8 @@ I'm Christopher Sidarous, a Computer Science and Data Science student at the Uni
 
 ## Connect with Me
 
-- [LinkedIn](./[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/csidarous/))
-docs/CONTRIBUTING.md
+- [LinkedIn]([./https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/csidarous/))
+d
 
 ---
 
