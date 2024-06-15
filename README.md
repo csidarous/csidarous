@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm [Christopher Sidarous], a Computer Science and Data Science student at the University of Pittsburgh. I'm currently working as an Undergraduate Teaching Assistant (UTA) and I'm passionate about Data Science and Machine Learning.
+I'm Christopher Sidarous, a Computer Science and Data Science student at the University of Pittsburgh. I'm currently working as an Undergraduate Teaching Assistant (UTA) and I'm passionate about Data Science and Machine Learning.
 
 ## About Me
 
