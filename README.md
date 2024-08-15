@@ -4,6 +4,11 @@
 
 I'm Christopher Sidarous, a Computer Science and Data Science student at the University of Pittsburgh. I'm currently working as an Undergraduate Teaching Assistant (UTA) and I'm passionate about Data Science and Machine Learning.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/csidarous/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://chrstophersidarousportfolio.com"><img src="https://img.shields.io/badge/-My%20Website-black?style=flat-square&logo=About.me&logoColor=white" alt="Website"></a>
+</p>
+
 ## About Me
 
 - 🌱 I’m currently learning and exploring various aspects of **Data Science** and **Machine Learning**.
