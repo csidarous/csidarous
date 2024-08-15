@@ -11,6 +11,9 @@ I'm Christopher Sidarous, a Computer Science and Data Science student at the Uni
 - 🧑‍🏫 Working as an **Undergraduate Teaching Assistant (UTA)**.
 - 🌿 In my free time, I enjoy **gardening** and **playing basketball**.
 
+## 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csidarous&layout=compact&theme=tokyonight)](https://github.com/csidarous/github-readme-stats)
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/csidarous/)
